@@ -1,0 +1,1 @@
+aws codecommit create-repository --repository-name AdeRepo --repository-description "Percobaan Repository CodeCommit" --tags Team=devops_mentor
