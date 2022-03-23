@@ -2814,3 +2814,12 @@
   font-stretch: normal;
   text-decoration: none;
 }
+.topworker-image15 {
+  top: 46px;
+  left: 75px;
+  width: 193px;
+  height: 33px;
+  position: absolute;
+  object-fit: cover;
+  border-color: transparent;
+}
