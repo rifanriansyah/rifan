@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: public/index.php
     destination: /var/www/html/
 permissions:
   - object: /var/www/html
@@ -29,4 +29,4 @@ hooks:
     - location: scripts/start_server.sh
       timeout: 300
       runas: root
-  
+
