@@ -1,0 +1,10 @@
+{
+  "name": "figmaexport-proto-1_mt2-page_1-my_project_-_menu",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
+}

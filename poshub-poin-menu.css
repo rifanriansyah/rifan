@@ -1,0 +1,4217 @@
+.poshub-poin-menu-container {
+    min-height: 100vh;
+}
+
+.poshub-poin-menu-poshub-poin-menu18348 {
+    width: 1512px;
+    height: 982px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 1512px;
+    box-sizing: border-box;
+    align-items: flex-start;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 0.699999988079071);
+}
+
+.poshub-poin-menu-image {
+    top: 102px;
+    left: 31px;
+    width: 1066px;
+    height: 827px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 53px;
+    background-color: rgba(230, 230, 230, 1);
+}
+
+.poshub-poin-menu-group218350 {
+    top: 0px;
+    left: 921px;
+    width: 733px;
+    height: 958px;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.07000000029802322);
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: rgba(239, 128, 55, 1);
+}
+
+.poshub-poin-menu-text {
+    top: 641.067626953125px;
+    left: 192.2728729248047px;
+    color: rgba(239, 128, 55, 1);
+    width: 30px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text001 {
+    color: rgba(239, 128, 55, 1);
+    width: 30px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group118353 {
+    top: 29px;
+    left: 294px;
+    width: 1198px;
+    height: 900px;
+    display: flex;
+    position: absolute;
+    box-shadow: 0px 100px 80px 0px rgba(0, 0, 0, 0.07000000029802322);
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.poshub-poin-menu-text002 {
+    top: 602.255615234375px;
+    left: 314.24566650390625px;
+    color: rgba(255, 255, 255, 1);
+    width: 50px;
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text003 {
+    color: rgba(255, 255, 255, 1);
+    width: 50px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text004 {
+    top: 12px;
+    color: rgba(128, 159, 184, 1);
+    right: -37px;
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Segoe UI;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text005 {
+    color: rgba(128, 159, 184, 1);
+    width: 153px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-notification18356 {
+    top: 66.69354248046875px;
+    left: 1271.0322265625px;
+    width: 42px;
+    height: 41.6129035949707px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image01 {
+    top: 0px;
+    left: 0px;
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-svg {
+    top: 13.190160751342773px;
+    left: 13.929215431213379px;
+    width: 15;
+    height: 15;
+    position: absolute;
+}
+
+.poshub-poin-menu-image02 {
+    top: 9.362903594970703px;
+    left: 23.233869552612305px;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-language18364 {
+    top: 66px;
+    left: 1326.51611328125px;
+    width: 42px;
+    height: 41.6129035949707px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image03 {
+    top: 0px;
+    left: 0px;
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-us18368 {
+    top: 11.096691131591797px;
+    left: 11.789754867553711px;
+    width: 18px;
+    height: 18.03227996826172px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-gruppe218369 {
+    top: 0px;
+    left: 0px;
+    width: 18px;
+    height: 18.03227996826172px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image04 {
+    top: 0px;
+    left: 0px;
+    width: 18px;
+    height: 18px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image05 {
+    top: 66px;
+    left: 1382px;
+    width: 43px;
+    height: 43px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-title18379 {
+    top: 55px;
+    left: 361px;
+    width: 285px;
+    height: 54px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text006 {
+    top: 0px;
+    left: 0px;
+    color: rgba(6, 21, 43, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text007 {
+    color: rgba(6, 21, 43, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text011 {
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-svg1 {
+    top: 363px;
+    left: 48px;
+    width: 229;
+    height: 56;
+    position: absolute;
+}
+
+.poshub-poin-menu-svg2 {
+    top: 151px;
+    left: 75px;
+    width: 26;
+    height: 26;
+    position: absolute;
+}
+
+.poshub-poin-menu-text012 {
+    top: 148px;
+    left: 116px;
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text013 {
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text014 {
+    top: 226px;
+    left: 116px;
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text015 {
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image06 {
+    top: 46px;
+    left: 75px;
+    width: 193px;
+    height: 33px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text016 {
+    top: 302px;
+    left: 116px;
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text017 {
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text018 {
+    top: 374px;
+    left: 116px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text019 {
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text020 {
+    top: 446px;
+    left: 116px;
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text021 {
+    color: rgba(128, 159, 184, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-svg3 {
+    top: 230px;
+    left: 75px;
+    width: 26;
+    height: 26;
+    position: absolute;
+}
+
+.poshub-poin-menu-svg4 {
+    top: 306px;
+    left: 75px;
+    width: 26;
+    height: 26;
+    position: absolute;
+}
+
+.poshub-poin-menu-svg5 {
+    top: 381px;
+    left: 75px;
+    width: 26;
+    height: 20;
+    position: absolute;
+}
+
+.poshub-poin-menu-svg6 {
+    top: 446px;
+    left: 79px;
+    width: 21;
+    height: 29;
+    position: absolute;
+}
+
+.poshub-poin-menu-text022 {
+    top: 149px;
+    left: 368px;
+    color: rgba(57, 60, 62, 1);
+    width: 189px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text023 {
+    color: rgba(57, 60, 62, 1);
+    width: 189px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image07 {
+    top: 184px;
+    left: 368px;
+    width: 601px;
+    height: 159px;
+    position: absolute;
+    box-shadow: 0px 22.3363094329834px 17.869047164916992px 0px rgba(0, 0, 0, 0.04172750562429428);
+    object-fit: cover;
+    border-color: rgba(239, 128, 55, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.poshub-poin-menu-text024 {
+    top: 12px;
+    color: rgba(128, 159, 184, 1);
+    right: -37px;
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Segoe UI;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text025 {
+    color: rgba(128, 159, 184, 1);
+    width: 153px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text026 {
+    top: 12px;
+    color: rgba(128, 159, 184, 1);
+    right: -37px;
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Segoe UI;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text027 {
+    color: rgba(128, 159, 184, 1);
+    width: 153px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text028 {
+    top: 12px;
+    color: rgba(128, 159, 184, 1);
+    right: -37px;
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Segoe UI;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text029 {
+    color: rgba(128, 159, 184, 1);
+    width: 153px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text030 {
+    top: 12px;
+    color: rgba(128, 159, 184, 1);
+    right: -37px;
+    width: 153px;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Segoe UI;
+    font-weight: 400px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text031 {
+    color: rgba(128, 159, 184, 1);
+    width: 153px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 400px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image08 {
+    top: 446px;
+    left: 368px;
+    width: 601px;
+    height: 434px;
+    position: absolute;
+    object-fit: cover;
+    border-color: rgba(235, 206, 206, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.poshub-poin-menu-text032 {
+    top: 210px;
+    left: 530px;
+    color: rgba(57, 60, 62, 1);
+    width: 182px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text033 {
+    color: rgba(57, 60, 62, 1);
+    width: 182px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text034 {
+    top: 210px;
+    left: 728px;
+    color: rgba(57, 60, 62, 1);
+    width: 182px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text035 {
+    color: rgba(57, 60, 62, 1);
+    width: 182px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group492411103 {
+    top: 355px;
+    left: 530px;
+    width: 433px;
+    height: 50px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image09 {
+    top: 0px;
+    left: 192px;
+    width: 241px;
+    height: 43px;
+    position: absolute;
+    object-fit: cover;
+    border-color: rgba(235, 206, 206, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 11px;
+    background-color: rgba(248, 175, 72, 1);
+}
+
+.poshub-poin-menu-text036 {
+    top: 10px;
+    left: 268px;
+    color: rgba(57, 60, 62, 1);
+    width: 118px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text037 {
+    color: rgba(57, 60, 62, 1);
+    width: 118px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image10 {
+    top: 0px;
+    left: 0px;
+    width: 185px;
+    height: 43px;
+    position: absolute;
+    object-fit: cover;
+    border-color: rgba(245, 142, 74, 1);
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 11px;
+    background-color: rgba(245, 142, 74, 1);
+}
+
+.poshub-poin-menu-text038 {
+    top: 8px;
+    left: 61px;
+    color: rgba(57, 60, 62, 1);
+    width: 84px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text039 {
+    color: rgba(57, 60, 62, 1);
+    width: 84px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text040 {
+    top: 469px;
+    left: 408px;
+    color: rgba(57, 60, 62, 1);
+    width: 490px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text041 {
+    color: rgba(57, 60, 62, 1);
+    width: 490px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text042 {
+    top: 149px;
+    left: 999px;
+    color: rgba(57, 60, 62, 1);
+    width: 260px;
+    height: auto;
+    position: absolute;
+    font-size: 17px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text043 {
+    color: rgba(57, 60, 62, 1);
+    width: 260px;
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image11 {
+    top: 241px;
+    left: 530px;
+    width: 168px;
+    height: 71px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 15px;
+    background-image: linear-gradient(75deg, rgba(244, 141, 73, 1) 0%, rgba(248, 178, 72, 1) 48%);
+}
+
+.poshub-poin-menu-image12 {
+    top: 241px;
+    left: 728px;
+    width: 216px;
+    height: 71px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 15px;
+    background-image: linear-gradient(75deg, rgba(244, 141, 73, 1) 0%, rgba(255, 244, 0, 0.6600000262260437) 100%);
+}
+
+.poshub-poin-menu-text044 {
+    top: 250px;
+    left: 554px;
+    color: rgba(255, 255, 255, 1);
+    width: 157px;
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text045 {
+    color: rgba(255, 255, 255, 1);
+    width: 157px;
+    height: auto;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-weight: 700px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text046 {
+    top: 250px;
+    left: 739px;
+    color: rgba(255, 255, 255, 1);
+    width: 233px;
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text047 {
+    color: rgba(255, 255, 255, 1);
+    width: 233px;
+    height: auto;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-weight: 700px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group471921072 {
+    top: 408px;
+    left: 368px;
+    width: 408px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-group481921082 {
+    top: 0px;
+    left: 0px;
+    width: 408px;
+    height: 38px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text048 {
+    top: 7px;
+    left: 40px;
+    color: rgba(57, 60, 62, 1);
+    width: 368px;
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 700px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text049 {
+    color: rgba(57, 60, 62, 1);
+    width: 368px;
+    height: auto;
+    align-self: auto;
+    font-style: italic;
+    text-align: left;
+    font-weight: 700px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image13 {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-group452411085 {
+    top: 194px;
+    left: 1012px;
+    width: 442px;
+    height: 671px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text050 {
+    top: 0px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text051 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text052 {
+    top: 0px;
+    left: 152px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text053 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text054 {
+    top: 0px;
+    left: 6px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text055 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text056 {
+    top: 0px;
+    left: 345px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 14px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 600px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text057 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 600px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group502411104 {
+    top: 28px;
+    left: 0px;
+    width: 435px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text058 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text059 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image14 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text060 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text061 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text062 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text063 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text064 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text065 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group512411105 {
+    top: 57px;
+    left: 0px;
+    width: 429px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text066 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text067 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image15 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text068 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text069 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text070 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text071 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text072 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text073 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group522411111 {
+    top: 86px;
+    left: 0px;
+    width: 442px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text074 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text075 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image16 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text076 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text077 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text078 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text079 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text080 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text081 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group532411117 {
+    top: 118px;
+    left: 0px;
+    width: 439px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text082 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text083 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image17 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text084 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text085 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text086 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text087 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text088 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text089 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group542411123 {
+    top: 147px;
+    left: 0px;
+    width: 427px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text090 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text091 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image18 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(255, 151, 76, 1);
+}
+
+.poshub-poin-menu-text092 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text093 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text094 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text095 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text096 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text097 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group552411129 {
+    top: 176px;
+    left: 0px;
+    width: 420px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text098 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text099 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image19 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(228, 253, 71, 1);
+}
+
+.poshub-poin-menu-text100 {
+    top: 2px;
+    left: 250px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text101 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text102 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text103 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text104 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text105 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group562411135 {
+    top: 205px;
+    left: 0px;
+    width: 435px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text106 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text107 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image20 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text108 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text109 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text110 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text111 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text112 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text113 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group572411141 {
+    top: 234px;
+    left: 0px;
+    width: 429px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text114 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text115 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image21 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text116 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text117 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text118 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text119 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text120 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text121 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group582411147 {
+    top: 263px;
+    left: 0px;
+    width: 442px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text122 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text123 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image22 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text124 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text125 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text126 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text127 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text128 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text129 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group592411153 {
+    top: 295px;
+    left: 0px;
+    width: 439px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text130 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text131 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image23 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text132 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text133 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text134 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text135 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text136 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text137 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group602411159 {
+    top: 324px;
+    left: 0px;
+    width: 427px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text138 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text139 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image24 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text140 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text141 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text142 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text143 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text144 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text145 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group612411165 {
+    top: 353px;
+    left: 0px;
+    width: 420px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text146 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text147 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image25 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text148 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text149 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text150 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text151 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text152 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text153 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group622411171 {
+    top: 382px;
+    left: 0px;
+    width: 435px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text154 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text155 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image26 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text156 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text157 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text158 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text159 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text160 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text161 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group632411177 {
+    top: 411px;
+    left: 0px;
+    width: 429px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text162 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text163 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image27 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text164 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text165 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text166 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text167 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text168 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text169 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group642411183 {
+    top: 440px;
+    left: 0px;
+    width: 442px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text170 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text171 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image28 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text172 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text173 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text174 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text175 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text176 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text177 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group652411189 {
+    top: 472px;
+    left: 0px;
+    width: 439px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text178 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text179 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image29 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text180 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text181 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text182 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text183 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text184 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text185 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group662411195 {
+    top: 501px;
+    left: 0px;
+    width: 427px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text186 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text187 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image30 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text188 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text189 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text190 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text191 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text192 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text193 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group672411201 {
+    top: 530px;
+    left: 0px;
+    width: 420px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text194 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text195 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image31 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text196 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text197 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text198 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text199 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text200 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text201 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group682411207 {
+    top: 559px;
+    left: 0px;
+    width: 435px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text202 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text203 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image32 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text204 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text205 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text206 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text207 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text208 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text209 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group692411213 {
+    top: 588px;
+    left: 0px;
+    width: 429px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text210 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text211 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image33 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text212 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text213 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text214 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text215 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text216 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text217 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group702411219 {
+    top: 617px;
+    left: 0px;
+    width: 442px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text218 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text219 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image34 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text220 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text221 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text222 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text223 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text224 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text225 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-group712411225 {
+    top: 649px;
+    left: 0px;
+    width: 439px;
+    height: 22px;
+    display: flex;
+    position: absolute;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-text226 {
+    top: 2px;
+    left: 334px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text227 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image35 {
+    top: 0px;
+    left: 231px;
+    width: 83px;
+    height: 22px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: rgba(28, 231, 109, 1);
+}
+
+.poshub-poin-menu-text228 {
+    top: 2px;
+    left: 247px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text229 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text230 {
+    top: 2px;
+    left: 145px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text231 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text232 {
+    top: 2px;
+    left: 0px;
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    position: absolute;
+    font-size: 12px;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-family: Poppins;
+    font-weight: 500px;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-text233 {
+    color: rgba(57, 60, 62, 1);
+    height: auto;
+    align-self: auto;
+    font-style: normal;
+    text-align: left;
+    font-weight: 500px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.poshub-poin-menu-image36 {
+    top: 511px;
+    left: 386px;
+    width: 558px;
+    height: 336px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
+
+.poshub-poin-menu-image37 {
+    top: 822px;
+    left: 0px;
+    width: 240px;
+    height: 160px;
+    position: absolute;
+    object-fit: cover;
+    border-color: transparent;
+}
