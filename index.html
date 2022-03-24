@@ -400,9 +400,9 @@
                         <span class="sign-in-u-i61062-text06">
                 <span class="sign-in-u-i61062-text07">Forgot password?</span>
                         </span>
-                        <img alt="Buttonlogin10616" src="public/playground_assets/buttonlogin10616-p0qp.svg" class="sign-in-u-i61062-svg" />
+                        <img onclick="wrong()" alt="Buttonlogin10616" src="public/playground_assets/buttonlogin10616-p0qp.svg" class="sign-in-u-i61062-svg" />
                         <span class="sign-in-u-i61062-text08">
-                          <a href="dashboard.html" class="sign-in-u-i61062-text09">Login</a>
+                          <a onclick="login('mamberamo', 'mamberamo123')" class="sign-in-u-i61062-text09">Login</a>
                         </span>
                         <img alt="Buttonlogin10618" src="public/playground_assets/buttonlogin10618-e8rm.svg" class="sign-in-u-i61062-svg1" />
                         <span class="sign-in-u-i61062-text10">
@@ -435,5 +435,18 @@
         </div>
     </div>
 </body>
+<script>
+    function wrong() {
+        login('mamberamo', 'salah');
+    }
+
+    function login(tes, tespass) {
+        if (tes == "mamberamo" && tespass == "mamberamo123") {
+            location.replace("dashboard.html")
+        } else {
+            alert('email atau password salah!!')
+        }
+    }
+</script>
 
 </html>
